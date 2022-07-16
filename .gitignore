@@ -1,0 +1,19 @@
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+node_modules
+
+#clinent dir
+client/
+client-micro/
+landing/
+
+files/
+uploads/
+logs/
+greenlock.d/
+file.json
+testfile.json
